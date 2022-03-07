@@ -1,6 +1,6 @@
 <div align="center">
   <img height="60" src="https://user-images.githubusercontent.com/85709371/153715216-fd60ffca-1b79-4531-b03d-201440ecaee3.png">
-  <img height="60" src="![mysql](https://user-images.githubusercontent.com/85709371/157084352-f7d187f7-b6df-4e14-91df-3fc7b7325d28.png)">
+  <img height="60" src="https://user-images.githubusercontent.com/85709371/157084352-f7d187f7-b6df-4e14-91df-3fc7b7325d28.png">
 </div>
 
 # MYSQL Database Connection with JavaScript - NodeJS 
