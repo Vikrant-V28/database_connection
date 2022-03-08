@@ -40,3 +40,6 @@ con.connect(function (err) {
 
 })
 ```
+
+## *Author Name*
+[Vikrant](https://github.com/thevkrant)
